@@ -1,0 +1,7 @@
+*.pyc
+*~
+_pycache_
+prueba
+db.squlite3
+/static
+.DS_Store
